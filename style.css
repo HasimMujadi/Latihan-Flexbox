@@ -72,19 +72,19 @@ h4 {
 .card .header-satu {
   height: 210px;
   background-image: url(image/ayam bakar.jpg);
-  background-size: 320px;
+  background-size: 200px;
   background-repeat: no-repeat;
 }
 .card .header-dua {
   height: 210px;
   background-image: url(image/ayam geprek.jpg);
-  background-size: 320px;
+  background-size: 200px;
   background-repeat: no-repeat;
 }
 .card .header-tiga {
   height: 210px;
   background-image: url(image/ayam betutu.jpg);
-  background-size: 320px;
+  background-size: 200px;
   background-repeat: no-repeat;
 }
 .card .content {
