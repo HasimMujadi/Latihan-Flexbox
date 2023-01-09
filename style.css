@@ -35,7 +35,7 @@ body {
   padding: 20px;
   margin: auto;
   background-image: url(image/bg.jpg);
-  background-size: 1400px;
+  background-size: 1000px;
   background-position: center;
   box-sizing: border-box;
   display: flex;
@@ -46,7 +46,7 @@ h4 {
 }
 .layanan-satu {
   color: white;
-  font-size: 25px;
+  font-size: 15px;
   text-align: left;
 }
 .container-tiga {
