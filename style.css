@@ -34,7 +34,7 @@ body {
   width: 100%;
   padding: 20px;
   margin: auto;
-  background-image: url('/image/bg.jpg');
+  background-image: url(image/bg.jpg);
   background-size: 1400px;
   background-position: center;
   box-sizing: border-box;
@@ -71,19 +71,19 @@ h4 {
 }
 .card .header-satu {
   height: 210px;
-  background-image: url('/image/ayam bakar.jpg');
+  background-image: url(image/ayam bakar.jpg);
   background-size: 320px;
   background-repeat: no-repeat;
 }
 .card .header-dua {
   height: 210px;
-  background-image: url('/image/ayam geprek.jpg');
+  background-image: url(image/ayam geprek.jpg);
   background-size: 320px;
   background-repeat: no-repeat;
 }
 .card .header-tiga {
   height: 210px;
-  background-image: url('/image/ayam betutu.jpg');
+  background-image: url(image/ayam betutu.jpg);
   background-size: 320px;
   background-repeat: no-repeat;
 }
